@@ -12,7 +12,7 @@
 - Origen de datos: https://datos.gob.ar/ar/dataset/salud-base-datos-3deg-encuesta-mundial-salud-escolar-emse-con-resultados-nacionales-argentina
 - Dataset: 
 - - [Comprimido](/Segunda%20Entrega/emse_datosabiertos.zip)
-- - [Completo](/Segunda%20Entrega/EMSE_DatosAbiertos2.csv)
+- - [Completo](/Segunda%20Entrega/EMSE_DatosAbiertos.csv)
 
 La Encuesta Mundial de Salud Escolar (EMSE) utiliza una metodología estandarizada a nivel mundial para relevar datos sobre aspectos sociodemográficos e indaga sobre conductas relacionadas con el comportamiento alimentario, el consumo de alcohol y otras drogas, la violencia y daños no intencionados, la seguridad vial, la salud mental, el con- sumo de tabaco, la actividad física, los comportamientos sexuales y los factores de protección
 
